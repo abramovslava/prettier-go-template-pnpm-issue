@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "hugo server -D",
-    "prettier": "prettier --config .prettierrc.js \"./themes/**/{*.ts,*.html,*.scss}\" --check"
+    "prettier": "prettier --config .prettierrc.js \"./themes/**/*.html\" --check"
   },
   "author": "",
   "license": "ISC",

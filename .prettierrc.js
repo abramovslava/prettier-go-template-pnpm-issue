@@ -16,12 +16,6 @@ module.exports = {
       options: {
         parser: 'go-template'
       }
-    },
-    {
-      files: ['*.scss'],
-      options: {
-        parser: 'scss'
-      }
     }
   ],
 };
